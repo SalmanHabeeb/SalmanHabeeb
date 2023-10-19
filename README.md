@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanHabeeb&hide=css,html,ipynb&exclude_repo=Stroke-predictor,Titanic)](https://github.com/SalmanHabeeb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanHabeeb&hide=css,html&exclude_repo=Stroke-predictor,Titanic,INR-Predictor)](https://github.com/SalmanHabeeb/github-readme-stats)
