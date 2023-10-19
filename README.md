@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning with _attention_
+- 👯 I’m looking to collaborate on anything creative
+- 📫 Reach me out at: salmangithub137@gmail.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanHabeeb&hide=css,html&exclude_repo=AIChess,AIChess-Dev,Stroke-predictor,Titanic,INR-Predictor&layout=donut&theme=tokyonight)](https://github.com/SalmanHabeeb/github-readme-stats)
